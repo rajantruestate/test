@@ -139,7 +139,7 @@ GEM
     parser (3.3.6.0)
       ast (~> 2.4.1)
       racc
-    pg (1.5.6)
+    pg (1.5.9)
     psych (5.2.2)
       date
       stringio
@@ -253,7 +253,7 @@ DEPENDENCIES
   bootsnap
   brakeman
   debug
-  pg (~> 1.5, >= 1.5.6)
+  pg (~> 1.5)
   puma (>= 5.0)
   rails (~> 7.2.2)
   rubocop-rails-omakase
